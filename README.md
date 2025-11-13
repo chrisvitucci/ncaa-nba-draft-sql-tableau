@@ -1,2 +1,12 @@
 # ncaa-nba-draft-sql-tableau
-Analysis of how NCAA performance predicts NBA draft position and rookie salary across the 2002, 2012, and 2022 draft classes. Includes college stats, draft data, inflation-adjusted salaries, SQL queries, and Tableau visualizations.
+How College Performance Predicts Draft Position and Rookie Salary
+
+This project analyzes how NCAA men’s basketball statistics influence NBA draft position and rookie contract salary, using three draft classes:
+
+2002
+
+2012
+
+2022
+
+I created a combined dataset with college stats, draft results, advanced analytics, and NBA salary information. SQL was used for querying and modeling relationships, and Tableau was used to visualize trends across eras, positions, and conferences.
